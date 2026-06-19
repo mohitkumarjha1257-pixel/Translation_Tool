@@ -34,5 +34,5 @@ If you want to run this project locally on your machine, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/CodeAlpha_Language_Translation_Tool.git](https://github.com/your-username/CodeAlpha_Language_Translation_Tool.git)
+git clone [git clone https://github.com/mohitkumarjha1257-pixel/Translation_Tool.git](git clone https://github.com/mohitkumarjha1257-pixel/Translation_Tool.git.git)
 cd CodeAlpha_Language_Translation_Tool
